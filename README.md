@@ -60,15 +60,7 @@ python -m http.server 8000
 - **Animate.css** - Smooth animations
 - **Web APIs** - Notification + Audio
 
-## 📁 Structure
 
-```
-web_dev_chutiya/
-├── index.html    # Main file
-├── style.css     # All styles
-├── script.js     # Timer logic
-└── README.md     # This file
-```
 
 ## 🎨 Key Features
 
